@@ -1,6 +1,7 @@
 # Entrega TP Módulo 3
 
 **trainingandtestdata**
+*No se subieron los datasets por el peso de los archivos*
 
 * Datasets con polaridad Negativa y Positiva: *training.1600000.processed.noemoticon.csv*
 * Dataset con preparado para entrenamiento: *big_tweets_cleaned.csv*
@@ -17,3 +18,4 @@ Trabaja con el data set de polaridad Negativa y Positiva
 *notebook/smalldataset*
 
 Trabaja con el data set de polaridad Negativa, Neutra y Positiva
+
